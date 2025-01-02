@@ -24,3 +24,15 @@ h1 {
     rgb(255, 255, 5) 98.8%
   );
 }
+
+footer {
+  background-color: #333; /* Dark gray for footer */
+  color: #b0b0b0;
+  padding: 10px;
+  font-weight: bolder;
+}
+
+footer a {
+  color: #ffcc00; /* Yellow for links */
+}
+
